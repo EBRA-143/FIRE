@@ -1,4 +1,4 @@
-import os,platform
+import os,platform,requests
 os.system('clear')
 print('[•] Checking Updates...')
 os.system('git pull')
